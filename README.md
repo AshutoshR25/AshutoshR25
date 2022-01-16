@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AshutoshR25
-- 👀 I’m interested in Learning Data Science and Analysis of Data.
+- 👀 I’m an Entry Level Junior Data Analyst who loves to Analysis Data.
 - 🌱 I’m currently pursuing my Bachelors in Information Technology and studying Data Analytics.
 - 💞️ I’m looking to collaborate on projects based on Data Analysis in R, Python, SQL (SSMS), Excelsheets.
 - 📫 How to reach me - You can connect with me on Linkedin
